@@ -1,0 +1,203 @@
+*{
+ margin:0;
+ padding: 0;
+ box-sizing: border-box;
+ outline:0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:100% ;
+    height:50vh;
+    background-color: #0b0e18;
+    background-image: url('../banner.png');
+    padding-top: 20px;
+    
+
+    
+}
+
+.logo{
+    display: flex;
+    justify-content:center;
+    margin-top:15px;
+   
+}
+
+h1 {  
+    margin: 0;
+    padding: 0;
+    border: 100px;
+   text-align: center;
+   color:#0d99ff;
+   font: 20px;Calibri
+   margin-top:50px;
+   line-height:height 2px
+
+   
+
+}
+
+
+h2 {  
+    margin: 0;
+    padding: 0;
+    border: 100px;
+   text-align: center;
+   color:#0d99ff;
+   font: 20px;Calibri
+   margin-top:50px;
+   line-height:height 2px;
+   letter-spacing:5px; 
+   
+   
+
+}
+
+
+
+p { 
+    text-align:center;
+    color:#FFFFFF;
+    margin:-5;
+    margin-top:15px;
+    line-height:1.5;
+    font: 20px Calibri;
+    background-color: black;
+
+    
+}
+
+button{
+
+    display: block ;
+    margin-right: auto;
+    margin-left: auto;
+    width: 320px; 
+    height: 55px;
+    border-radius: 5px;
+    border: 3px solid #0d99ff;
+    box shadow:50px;
+    background-color: transparent;
+    color:#0d99ff;
+    font-size:15px;
+    padding-left: 50px;
+    padding-right:50px;
+    cursor: pointer;
+    margin: bottom 100px; 
+    box-sizing:border-box;
+    margin-top:20px;
+    line-height:30px;
+    padding: 10px 50px  50px;
+    
+    
+    
+
+   
+    
+
+}
+
+span {
+    margin-right: auto;
+    margin-left: auto;
+    text-align:center;
+    color: #0d99ff;
+    margin-top:15px;
+    line-height:1.5;
+    font: 15px Calibri;
+    
+  
+
+}
+.module {
+    display: block ;
+    margin-right: auto;
+    margin-left: auto;
+    width:410px; 
+    height:50px;
+    text-align:center;
+    border:1px solid #0d99ff;
+    border-radius: 80px;
+    background-color:#444444;
+    color: #FFFFFF;
+    margin-top:15px;
+    font: 15px Calibri;
+  
+
+    
+    
+}
+
+
+ #transform-world {
+    margin: 0;
+    padding:0;
+    width:1060px; 
+    height:220px;
+    border:1px solid #0d99ff;
+    background-image: url('../woman-code.png');
+    background-color: black;
+    background-size: cover;
+    background-position:center;
+    
+
+}
+
+h3 {
+    margin: 0;
+    padding: 10%;
+    border: 100px;
+   text-align: center;
+   color: #FFFFFF;
+   margin-right: 55%;
+   text-shadow: 3px 3px 0 #0d99ff;
+   font:30px Impact, fantasy ;
+}
+
+
+h4 {
+    width:1060px; 
+    height: 220px;
+    padding:0;
+    text-align:center;
+   color: #FFFFFF;
+   font: 17px Times New Roman;
+   
+}
+
+#professional-challenges{
+   
+    background-color: black;
+    background-position:left;
+    text-align: center;
+    
+}
+
+.dio-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+    border: 1px  solid #0d99ff;
+    border-right-color: transparent;
+    border: right color 1px;  #black;
+    border-bottom-width:0;
+    border-radius: 0 0;
+
+    
+} 
+   
+
+
+
+
+
+
+
+
+
+
+
+   
